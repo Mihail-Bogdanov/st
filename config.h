@@ -5,8 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-/* static char *font = "Source code pro:pixelsize=13:antialias=true:autohint=true"; */
-static char *font = "Terminus:pixelsize=15:antialias=true:autohint=true";
+static char *font = "Source code pro:pixelsize=13:antialias=true:autohint=true"; 
+static char *font2 = "Fontawesome:pixelsize=15:antialias=true:autohint=false";
 static int borderpx = 10;
 
 /*
